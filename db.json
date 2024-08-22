@@ -1,1 +1,43 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "last_name": "Fuery",
+      "type": "Package",
+      "amount": 2000,
+      "destination" : "Honolulu, HI", 
+      "departure date" : "13th September",
+      "pax": 2,
+  
+    },
+     {
+      "id": 2,
+      "last_name": "Mathevet",
+      "type": "Flights",
+      "amount": 300,
+        "destination" : "Paris, FR", 
+      "departure date" : "23rd October",
+       "pax": 1,
+  
+    },
 
+      {
+      "id": 3,
+      "last_name": "Filius",
+      "type": "Flights",
+      "amount": 400,
+      "destination" : "Oslo, NO", 
+      "departure date" : "16th December",
+        "pax": 2,
+  
+    },
+        {
+          "id": 4,
+      "last_name": "Albrecht",
+      "type": "Hotel",
+      "amount": 900,
+      "destination" : "Oslo, NO", 
+      "departure date" : "16th December",
+        "pax": 2,
+  
+    },

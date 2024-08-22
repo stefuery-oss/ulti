@@ -1,45 +1,33 @@
 {
-  "bookings": [
+  "animals": [
     {
       "id": 1,
-      "last_name": "Fuery",
-      "type": "Package",
-      "amount": 2000,
-      "destination" : "Honolulu, HI", 
-      "departure date" : "13th September",
-      "pax": 2,
-  
+      "name": "Lion",
+      "age": 32,
+      "type": "Carnivorer",
+      "national parks": [
+        "Nairobi",
+        "Serengeti"
+      ]
     },
-     {
+    {
       "id": 2,
-      "last_name": "Mathevet",
-      "type": "Flights",
-      "amount": 300,
-        "destination" : "Paris, FR", 
-      "departure date" : "23rd October",
-       "pax": 1,
-  
+      "name": "Elephant",
+      "age": 20,
+      "type": "Herbivorers",
+      "national parks": [
+        "Nairobi",
+        "Massai Mara"
+      ]
     },
-
-      {
-      "id": 3,
-      "last_name": "Filius",
-      "type": "Flights",
-      "amount": 400,
-      "destination" : "Oslo, NO", 
-      "departure date" : "16th December",
-        "pax": 2,
-  
-    },
-        {
-          "id": 4,
-      "last_name": "Albrecht",
-      "type": "Hotel",
-      "amount": 900,
-      "destination" : "Oslo, NO", 
-      "departure date" : "16th December",
-        "pax": 2,
-  
-    },
+    {
+      "name": "Hyena",
+      "age": 10,
+      "type": "Carnivorer",
+      "national parks": [
+        "Nairobi",
+        "Serengeti"
+      ],
+      "id": 3
+    }
   ]
-}
